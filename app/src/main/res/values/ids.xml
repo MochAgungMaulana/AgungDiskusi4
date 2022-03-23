@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dialog_btn" type="id" />
+    <item name="alertdialog1" type="id" />
+    <item name="alertdialog2" type="id" />
+    <item name="alertdialog3" type="id" />
+    <item name="tutupbutton" type="id" />
+</resources>
